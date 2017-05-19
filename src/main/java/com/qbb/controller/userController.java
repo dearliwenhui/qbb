@@ -55,7 +55,7 @@ public class userController{
 		return responseAPI.getJsonString(map);
 	}
 	
-	/**
+	/** 
 	 *  @功能:查询全部用户
 	 *  @作者:李文辉 
 	 *  @代号:ab
